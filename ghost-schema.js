@@ -15,7 +15,7 @@ const author = {
     name: 'Data Schema Author',
     slug: 'data-schema-author',
     url: 'https://demo.ghost.io/author/data-schema-author/',
-    profile_image: 'https://casper.ghost.org/v2.0.0/images/ghost.png',
+    profile_image: 'https://pm1.narvii.com/6446/272b71c319670f00db0e08079d3a2d785224e6c7_128.jpg',
     cover_image: 'https://images.unsplash.com/photo-1532630571098-79a3d222b00d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=a88235003c40468403f936719134519d',
     bio: 'This is a data schema stub for Gatsby.js and is not used. It must exist for builds to function',
     website: 'https://ghost.org',
